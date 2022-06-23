@@ -1,4 +1,6 @@
-# Ex04-Constructor
+##EX NO:4
+##DATE:27.4.22
+# <p align="center">Constructor
 ## Aim:
  To write a C# program to calculate the salary of an employee by passing the name, designation, noofexperience, basic salary and insurance amount through constructor.
  
